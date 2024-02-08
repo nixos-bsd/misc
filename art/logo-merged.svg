@@ -8,7 +8,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="logo-trident.svg"
+   sodipodi:docname="logo-merged.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -164,9 +164,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64430891"
-     inkscape:cx="-226.59938"
-     inkscape:cy="334.46689"
+     inkscape:zoom="5.0601144"
+     inkscape:cx="425.97851"
+     inkscape:cy="449.69339"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -245,8 +245,10 @@
        id="g1"
        transform="matrix(2.1785604,0,0,2.1785604,235.82593,-925.53296)"
        inkscape:label="daemon"><path
-         d="m 112,135 c 4,37 38,38 53,42 44,9 22,26 4,26 l 1,3 -38,1 31,-18 3,8 c 5,2 38,-10 -15,-15 -22,-4 -36,-9 -44,-19 L 80,179 C 73,163 52,157 61,136"
-         id="path4" /><path
+         id="path4"
+         style="stroke-width:1.00009;stroke-dasharray:none"
+         d="m 111.9996,135.00006 -50.999992,1.00018 c -8.999991,20.99998 12.000088,26.9994 19.000081,42.99939 l 27.000691,-15.99954 c 7.99999,9.99999 21.99959,15.00008 43.99957,19.00008 52.99994,4.99999 22.53281,15.79981 14.93518,15.23651 -1.27775,-0.0211 -2.59777,-0.0108 -3.89032,-0.0111 l -5.85737,-9.73286 -3.47962,0.0782 -1.63979,2.98289 4.11839,6.83485 -7.99641,0.14877 -3.24176,6.03555 c 8.65233,-0.16311 17.23,-0.25948 25.882,-0.43432 17.83421,-0.49276 38.51524,-17.27245 -4.83024,-26.13857 -14.99998,-3.99999 -49.00036,-5.00008 -53.00036,-42.00004 z"
+         sodipodi:nodetypes="ccccccccccccccccc" /><path
          d="m 106,157 c 2,1 5,-3 4,-5 L 37,98 c 0,-3 7,-9 -3,-17 l 1,-2 -13,-6 c 2,4 4,5 6,12 l 4,-2 c 4,5 4,9 0,11 l -7,-5 c 0,-1 1,-2 1,-3 0,0 -1,-1 -4,-1 -2,0 -6,-4 -9,-4 0,3 5,8 5,13 l 3,-2 c 3,1 5,3 7,6 -3,4 -7,6 -15,2 0,-2 2,-3 2,-5 -4,0 -9,-3 -14,-6 2,7 8,15 14,17 10,4 14,-3 19,-3 z"
          style="fill:#ffd700"
          id="path6" /><path
